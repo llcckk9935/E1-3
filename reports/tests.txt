@@ -1,0 +1,12 @@
+﻿Python 3.14.7
+test_console_retry_and_eof (test_main.SimulatorTests.test_console_retry_and_eof) ... ok
+test_epsilon_and_labels (test_main.SimulatorTests.test_epsilon_and_labels) ... ok
+test_integer_overflow_isolated_in_batch (test_main.SimulatorTests.test_integer_overflow_isolated_in_batch) ... ok
+test_original_and_isolation (test_main.SimulatorTests.test_original_and_isolation) ... ok
+test_schema_and_nonfinite (test_main.SimulatorTests.test_schema_and_nonfinite) ... ok
+test_scores_and_flatten (test_main.SimulatorTests.test_scores_and_flatten) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.339s
+
+OK

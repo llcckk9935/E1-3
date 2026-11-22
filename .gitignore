@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+outputs/
+
+# Local instructions and authentication helpers
+/E1-3 미션 원본.txt
+/지침서.md
+/GitHub-인증등록.ps1
+.env.*
+.venv/
+venv/
